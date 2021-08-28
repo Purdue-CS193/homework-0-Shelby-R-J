@@ -1,3 +1,9 @@
+# Shelby's First CS193 Homework
+
+- I like that we can learn tools that will help us with our classes and careers beyond Purdue.
+- I think the TA's are cool.
+- I like computer science in general and therefore enjoy this class.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
